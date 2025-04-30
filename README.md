@@ -5,11 +5,10 @@
 <strong>Curso:</strong> Engenharia de Computação</p>
 
 <p><strong>Autores:</strong><br>
-- Felipe Cassante Ganzarolli — RA: 24003492<br>
-- Felipe Grolla Freitas — RA: 24004846<br>
-- Gabriel Henrique Pozeti de Faria — RA: 24011960<br>
-- João Victor Vasconcelos Junqueira Criscuolo — RA: 22024547<br>
-- Lucas Espica Rezende — RA: 24006575</p>
+- Felipe Grolla Freitas <br>
+- Gabriel Henrique Pozeti de Faria <br>
+- João Victor Vasconcelos Junqueira Criscuolo <br>
+- Lucas Espica Rezende </p>
 
 <p><strong>Campinas — SP</strong><br>
 <strong>Ano:</strong> 2024</p>
